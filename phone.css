@@ -1,0 +1,8 @@
+#box-content{
+    flex-direction: column-reverse;
+    overflow:hidden;
+}
+.section {
+    height: 833px;
+    border: 2px solid white;
+}
